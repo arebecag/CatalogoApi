@@ -16,7 +16,7 @@ Este projeto consiste em uma API desenvolvida em .NET 8 e um front-end desenvolv
 No arquivo appsettings.Development.json, verifique se a string de conexão está configurada corretamente para apontar para o seu SQL Server local.
 
 - Aplicar migrações e atualizar o banco de dados:
-  ### `dotnet ef database update`
+  ### `update database`
 
 - Rodar a aplicação:
 - ### `dotnet run`
