@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma API desenvolvida em .NET 8 e um front-end desenvolvido em React para gerenciamento de produtos.
 
-## O Frontend está em uma pasta separada nomeada como "frontend"
+## *O Front-end está em uma pasta separada nomeada como "frontend"*
 
 ### Backend
 
