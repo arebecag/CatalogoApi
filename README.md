@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma API desenvolvida em .NET 8 e um front-end desenvolvido em React para gerenciamento de produtos.
 
-## Requisitos
+## O Frontend está em uma pasta separada nomeada como "frontend"
 
 ### Backend
 
@@ -20,5 +20,19 @@ No arquivo appsettings.Development.json, verifique se a string de conexão está
 
 - Rodar a aplicação:
 - ### `dotnet run`
+
+### Configuração do Frontend:
+
+- Node.js
+- npm (Node Package Manager)
+
+### Caso não tenha instalado:
+Instalar dependências:
+### `npm install`
+Rodar a aplicação:
+### `npm start`
+
+O front-end estará disponível em:
+### `http://localhost:3000`
 
 
